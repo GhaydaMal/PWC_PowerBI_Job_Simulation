@@ -1,6 +1,6 @@
 # PWC_PowerBI_Job_Simulation
 
-![Alt text](https://github.com/GhaydaMal/PWC_PowerBI_Job_Simulation/blob/main/Screenshot (20).png)
+![Alt text](https://github.com/GhaydaMal/PWC_PowerBI_Job_Simulation/blob/main/PWC_Logo.png)
 
 
 
